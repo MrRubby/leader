@@ -1,0 +1,20 @@
+{
+  "name": "leaderos-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LeaderOS",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "better-sqlite3": "^8.5.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.4.5",
+    "quick.db": "^9.1.7"
+  }
+}
